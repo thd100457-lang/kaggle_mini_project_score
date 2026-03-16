@@ -89,20 +89,8 @@ from scipy import stats
 
 ---
 
-## 파일 구조
-
-```
-📂 exam-score-policy-analysis
-├── 📄 README.md
-├── 📓 analysis.ipynb          # 전체 분석 코드
-├── 📊 report_slides.pdf       # 정책 분석 보고서 슬라이드
-└── 📁 data/
-    └── train.csv              # Kaggle 데이터셋
-```
-
----
-
 ## 참고
 
 - Kaggle 대회 : [Playground Series S6E1](https://www.kaggle.com/competitions/playground-series-s6e1)
-- 분석 보고서 슬라이드 : `report_slides.pdf` 참고
+- 시험 성적 향상 정책 분석 보고서 :[시험 성적 예측 모델링 : 통계분석 및 머신러닝 접근](report/시험성적 향상 정책 제언.pdf)
+- 분석코드 : [분석코드](분석코드.ipynb)
